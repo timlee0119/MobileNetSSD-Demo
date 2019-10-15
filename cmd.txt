@@ -1,0 +1,18 @@
+
+
+python3 object_detection_demo_ssd_async.py -m frozen_inference_graph.xml -i incar_dogcat_20190816.mp4 --labels coco_labels.txt -d MYRIAD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
