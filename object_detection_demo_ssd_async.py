@@ -106,7 +106,6 @@ def main():
             labels_map = [x.strip() for x in f]
     else:
         labels_map = None
-    print(len(labels_map))
     cap = cv2.VideoCapture(input_stream)
 
     cur_request_id = 0
